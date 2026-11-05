@@ -241,5 +241,3 @@ npm pack --dry-run
 - Integrante 3: **Diego Santos** — Chain of Responsibility e Adapter.
 
 **Vídeo de apresentação (YouTube):** **(placeholder)**
-
-**Entrega:** um único link para o repositório. O repositório deve estar acessível ao professor; atualmente, a visibilidade do `gxot/TraceKit` é privada.
